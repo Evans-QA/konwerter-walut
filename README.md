@@ -29,9 +29,9 @@ Program pobiera kwotę w PLN od użytkownika oraz pozwala na wybór docelowej wa
 
 | Scenariusz | Opis |
 | :--- | :--- |
-| **Prawidłowe obliczenia** | [TU WKLEJ SWÓJ SCREEN Z POPRAWNYM WYNIKIEM] |
-| **Obsługa błędu (tekst)** | [TU WKLEJ SWÓJ SCREEN Z BŁĘDEM FORMATU] |
-| **Obsługa błędu (ujemna kwota)** | [TU WKLEJ SWÓJ SCREEN Z KOMUNIKATEM O KWOCIE UJEMNEJ] |
+| **Prawidłowe obliczenia** | [] |
+| **Obsługa błędu (tekst)** | [] |
+| **Obsługa błędu (ujemna kwota)** | [] |
 
 ---
 **Autor:** Kevin Evans
